@@ -2,7 +2,7 @@
 
 A modern, responsive web application for managing student records, courses, grades, and academic reports.
 
-screenshot 
+**screenshot** 
 
 ![Screenshot (54)](https://github.com/user-attachments/assets/11c6b74f-17e6-40da-9f32-3608f1a8d8ae)
 
